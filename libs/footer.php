@@ -32,14 +32,14 @@ echo '
         var _hmt = _hmt || [];
         (function() {
             var hm = document.createElement("script");
-            hm.src = "https://hm.baidu.com/hm.js?5320b69f4f1caa9328dfada73c8e6a75";
+            hm.src = "https://hm.baidu.com/hm.js?5320b69f4f1caa66686585893284dfada73c8e6a75";
             var s = document.getElementsByTagName("script")[0];
             s.parentNode.insertBefore(hm, s);
         })();
     </script>
   <footer class="text-muted small col-md-12" style="text-align: center">
    '.showAD('bot').'
-  <hr />Copyright © 2018-'. date('Y').' <a href="https://img.545141.com/" target="_blank"> EasyImage</a> Powered By <code><a href="https://www.545141.com/902.html" target="_blank">icret</a></code> Verson: <a href="https://github.com/icret/easyImages2.0" target="_blank"> '.$config['version'].'</a>'.@$qqgroup.'
+  <hr />Copyright © 3ON EM 2015-'. date('Y').' <a href="https://imon.tk/" target="_blank"> MONの图床</a> 服务提供 <code><a href="https://imon.tk" target="_blank">腾讯云开发者平台</a></code> Verson: <a href="https://imon.tk" target="_blank"> '.$config['version'].'</a>'.@$qqgroup.'
   </footer>
 </body>
 </html>
